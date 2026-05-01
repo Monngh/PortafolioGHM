@@ -1,46 +1,51 @@
-# Velorah Immersive Landing Pages
+# Gael Hernández Monroy - Professional Developer Portfolio
 
-A collection of high-end, cinematic web sections combined into a single, cohesive landing page experience. Built with modern web technologies focusing on high-performance animations and 3D rendering.
+A modern, high-performance interactive developer portfolio showcasing technical skills, projects, and professional background.
 
 ## 🚀 Features
 
-* **Cinematic Video Backgrounds:** Custom JavaScript-controlled video crossfading for seamless loops.
-* **Liquid Glass Design System:** Premium glassmorphism effects for a modern, luxury aesthetic.
-* **Complex Entrance Animations:** Staggered entry animations using Framer Motion.
-* **3D Scrollytelling:** Interactive 3D objects (React Three Fiber) that respond to scroll events.
-* **Responsive Layouts:** Perfectly adapted for all screen sizes.
+* **Modern & Clean UI:** A dark-themed, professional aesthetic tailored for software engineering and multimedia development.
+* **Smooth Animations:** Integrated scroll animations and fluid page transitions powered by Framer Motion.
+* **Interactive Elements:** Features a custom torch-effect cursor and a sticky navigation bar for optimal user experience.
+* **Responsive Design:** Fully mobile-responsive layout built with Tailwind CSS.
+* **Multi-Language Support:** Context-based language toggling for international reach.
 
 ## 🛠️ Tech Stack
 
-* **Core:** React 18, Vite, TypeScript
+* **Frontend Framework:** React 18
+* **Build Tool:** Vite
+* **Language:** TypeScript
 * **Styling:** Tailwind CSS
 * **Animations:** Framer Motion
-* **3D Rendering:** Three.js, React Three Fiber, React Three Drei
 * **Icons:** Lucide React
 
 ## 🏃‍♂️ Getting Started
 
-1. **Install dependencies:**
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Monngh/PortafolioGHM.git
+   cd PortafolioGHM
+   ```
+
+2. **Install dependencies:**
    ```bash
    npm install
    ```
 
-2. **Run the development server:**
+3. **Run the development server:**
    ```bash
    npm run dev
    ```
 
-3. **Build for production:**
+4. **Build for production:**
    ```bash
    npm run build
    ```
 
-## 🎨 Sections Included
+## 📂 Project Structure
 
-- **Hero & SpaceHero:** Immersive video backgrounds.
-- **Capabilities:** Liquid-glass service cards.
-- **VexHero:** Cinematic hero with character-by-character blur animation.
-- **AiAgency:** Full agency landing page with HLS video backgrounds.
-- **AsmeLanding:** Editorial-style landing with advanced loop-fading video logic.
-- **ViktorOddy:** Clean, modern studio landing page with infinite marquees.
-- **3D Sword Scene:** Interactive 3D scrollytelling experience.
+- `PortfolioHero`: Main immersive introduction section.
+- `AboutMe`: Personal biography and academic background.
+- `PortfolioProjects`: Detailed showcase of software and engineering projects.
+- `PortfolioSkills`: Grid layout displaying technologies, languages, and tools.
+- `PortfolioContact`: Professional links and contact methods.
