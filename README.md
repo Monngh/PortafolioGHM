@@ -1,5 +1,9 @@
 # Gael Hernández Monroy - Professional Developer Portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=for-the-badge)](https://portafolio-ghm.vercel.app/)
+
+![Portfolio Preview](https://image.thum.io/get/width/1200/crop/800/https://portafolio-ghm.vercel.app/)
+
 A modern, high-performance interactive developer portfolio showcasing technical skills, projects, and professional background.
 
 ## 🚀 Features
